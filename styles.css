@@ -1,0 +1,22 @@
+body {
+    background-color: lavender;
+
+}
+
+#header1 {
+    color: blue;
+    text-align: center;
+}
+
+#description{
+    text-align: center;
+}
+
+h2{
+    color:blueviolet;
+}
+
+h3 {
+    color: green;
+    text-align: center;
+}

@@ -1,0 +1,36 @@
+ /* p { 
+    /* element selectors  */
+    color: blue; 
+  } */
+
+  #latest { 
+    /* id selector */
+    background-color: purple; 
+  }
+
+  .navigation { 
+    /* class selectors  */
+    margin: 2px;
+  }
+
+
+  p.introduction { 
+     /* element with class and id selectors   */
+    margin: 2px;
+  }
+
+
+   #blog h1 {
+    /* descendant selectors  */
+    color: blue;
+  } 
+
+  #blog2 > h1 {
+    /* child selectors  */
+    color: blue;
+  }
+
+  a:hover {
+    /* hover psuedo class  */
+    color: orange;
+  }

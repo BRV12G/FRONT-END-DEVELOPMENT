@@ -1,0 +1,26 @@
+#content{
+    width: 100px;
+    height: 30px;
+    background-color: aquamarine;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right:5px;
+    border-width: thick;
+    border-color: brown;
+
+}
+
+#margin {
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 60px;;
+}
+
+#together {
+    padding: 0px 0px 0px 90px;
+    border-width: 5px 2px 1px 5px;
+    background-color: blue;
+    margin: 20px 50px 10px 60px;
+}
